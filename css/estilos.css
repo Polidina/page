@@ -1,0 +1,39 @@
+
+body {
+
+  background-image: url(../images/fondo.png);
+}
+
+h1 {
+
+
+  color: rgb(159,60,204);
+
+ font-size: 74px;
+  text-align: center;
+
+}
+h2{
+
+  color: rgb(159,60,204);
+ font-size: 24px;
+
+}
+h3, p, a {
+
+    color: rgb(239, 207, 255);
+}
+
+h5{
+
+  color: rgb(239, 207, 230);
+
+}
+.policont img{
+  position: absolute;
+  width: 840px;
+  height: 560px;
+  top: 142px;
+  left: 367px;
+
+}
